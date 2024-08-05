@@ -16,6 +16,23 @@ E.g Commerical banking and Investment services
 - A finacial Intermediary that perform a variety of services.
 - E.g specialist in large and complex financial transactions and acting as a broker or advisor for institutional clients
 
-## what is a bank?
+## What is a bank?
 A bank is a financial institution that accepts money deposits and loan money to borrowers.
+![Bank](Images\Bank.png)
 
+### Fractional Reserve
+
+Banks only keep a fraction of the money deposited in the reserve while investing the rest into the money markets.
+
+## Interest Rates
+
+- Interest: A fee for the use of money
+- Interest rate: A percentage of the loan or deposit that is charged as interest
+- APR: Annual percentage of rate of interest
+
+## Banks - Monetary Policy
+Retail banks can set their own rate for lending money to their clients. But the rate to lend between banks is set by the Central bank
+
+- **LIBOR**: London Interbank Offered Rate was a benchmark interest rate for short-term loans between banks. But it has been abolished and been replaced by **Secured Overnight Financing Rate (SOFR)**
+
+## Central Banks - Interest and Inflation
