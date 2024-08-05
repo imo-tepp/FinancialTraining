@@ -18,6 +18,7 @@ E.g Commerical banking and Investment services
 
 ## What is a bank?
 A bank is a financial institution that accepts money deposits and loan money to borrowers.
+
 ![Bank](Images\Bank.png "Bank")
 
 ### Fractional Reserve
