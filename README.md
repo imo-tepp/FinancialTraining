@@ -16,3 +16,6 @@ E.g Commerical banking and Investment services
 - A finacial Intermediary that perform a variety of services.
 - E.g specialist in large and complex financial transactions and acting as a broker or advisor for institutional clients
 
+## what is a bank?
+A bank is a financial institution that accepts money deposits and loan money to borrowers.
+
